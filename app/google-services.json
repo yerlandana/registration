@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579935469606",
+    "firebase_url": "https://login-8c975.firebaseio.com",
+    "project_id": "login-8c975",
+    "storage_bucket": "login-8c975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579935469606:android:2f3e3b31ace5d65ec726e7",
+        "android_client_info": {
+          "package_name": "com.dana.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579935469606-3s9bke892ajvmbme0fss19notohi48mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dana.registration",
+            "certificate_hash": "0668fcd718b07b1dee2e811a245671d67c132446"
+          }
+        },
+        {
+          "client_id": "579935469606-kl8ggbbe0pf8585c2ekme2ctmj97bi18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh12tQ2ZRPzUCVeXT7kQNJA9ulNB41P9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579935469606-kl8ggbbe0pf8585c2ekme2ctmj97bi18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

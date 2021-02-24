@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="activity_main_navigation_button_text">Click me</string>
+</resources>
